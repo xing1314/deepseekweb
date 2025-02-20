@@ -55,11 +55,3 @@ define('DEEPSEEK_API_KEY', 'your_api_key_here');
 2. 在输入框中输入对话内容
 3. 系统将优先从缓存返回历史结果
 4. 新查询将自动存储到数据库并更新缓存
-
-## 🤝 贡献指南
-欢迎通过Issue和PR参与贡献：
-1. Fork项目仓库
-2. 创建特性分支 (`git checkout -b feature/awesome-feature`)
-3. 提交修改 (`git commit -am 'Add awesome feature'`)
-4. 推送分支 (`git push origin feature/awesome-feature`)
-5. 新建Pull Request
